@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25da0947-e826-4da4-b870-428f3f5e4b8b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Kaggle_TGS_Salt_Identification_master$Train.coverage" NAME="Train Coverage Results" MODIFIED="1538209855805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kaggle_TGS_Salt_Identification_master$Submission.coverage" NAME="Submission Coverage Results" MODIFIED="1538209571164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kaggle_TGS_Salt_Identification_master$Dataset.coverage" NAME="Dataset Coverage Results" MODIFIED="1538226593944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1700955081">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="7" />
+          <entry key="project.open.time.4" value="13" />
+          <entry key="project.opened" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="1228" />
+          <entry key="TO_DO" value="375" />
+          <entry key="dummy" value="44" />
+          <entry key="md" value="2548" />
+          <entry key="py" value="31765" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="2923" />
+          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="Python" value="32993" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="TO_DO" value="1" />
+          <entry key="csv" value="2" />
+          <entry key="py" value="260" />
+          <entry key="vmoptions" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="260" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-748287744">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Kaggle-TGS-Salt-Identification" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="225">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2538">
+              <caret line="126" column="54" lean-forward="true" selection-start-line="126" selection-start-column="54" selection-end-line="126" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>load_old_pretrain_file</find>
+      <find>np.min(im)</find>
+      <find>epoch</find>
+      <find>net</find>
+      <find>B</find>
+      <find>sigmoid</find>
+      <find>save</find>
+      <find>p</find>
+      <find>self.rel</find>
+      <find>P2</find>
+      <find>nn.ELU(inplace=True)</find>
+      <find>channels // 4</find>
+      <find>lovas</find>
+      <find>self.se</find>
+      <find>, use_depth=False</find>
+      <find>auxiliary_df</find>
+      <find>AUX_PATH</find>
+      <find>dep</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self</replace>
+      <replace>max</replace>
+      <replace>min</replace>
+      <replace>self.epoch</replace>
+      <replace>pred</replace>
+      <replace>truth</replace>
+      <replace>P3</replace>
+      <replace>P2</replace>
+      <replace>P1</replace>
+      <replace>ELU_1(inplace=True)</replace>
+      <replace>channels</replace>
+      <replace>channels // 2</replace>
+      <replace>self.cSE</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Metrics.py" />
+        <option value="$PROJECT_DIR$/HengCode/Augmentation.py" />
+        <option value="$PROJECT_DIR$/Augmentation.py" />
+        <option value="$PROJECT_DIR$/Model.py" />
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/Graph.py" />
+        <option value="$PROJECT_DIR$/Evaluation.py" />
+        <option value="$PROJECT_DIR$/Ensemble.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/optim/Scheduler.py" />
+        <option value="$PROJECT_DIR$/TO_DO" />
+        <option value="$PROJECT_DIR$/Readme.md" />
+        <option value="$PROJECT_DIR$/lovász-loss.py" />
+        <option value="$PROJECT_DIR$/lovász_loss.py" />
+        <option value="$PROJECT_DIR$/Loss.py" />
+        <option value="$PROJECT_DIR$/Scheduler.py" />
+        <option value="$PROJECT_DIR$/Analysis.py" />
+        <option value="$PROJECT_DIR$/ResNet.py" />
+        <option value="$PROJECT_DIR$/Network.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Models.py" />
+        <option value="$PROJECT_DIR$/Submission.py" />
+        <option value="$PROJECT_DIR$/Dataset.py" />
+        <option value="$PROJECT_DIR$/Train.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="242" />
+    <option name="y" value="89" />
+    <option name="width" value="1559" />
+    <option name="height" value="888" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PySuperArgumentsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kaggle-TGS-Salt-Identification-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle-TGS-Salt-Identification-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///media/data/Kaggle/Kaggle-TGS-Salt-Identification/Network.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Kaggle-TGS-Salt-Identification" sdk-home="$USER_HOME$/anaconda3/envs/deep/bin/python">
+        <option name="mySdkHome" value="$USER_HOME$/anaconda3/envs/deep/bin/python" />
+        <option name="myModuleName" value="Kaggle-TGS-Salt-Identification" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Dataset">
+    <configuration name="Dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kaggle-TGS-Salt-Identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Submission" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kaggle-TGS-Salt-Identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Submission.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kaggle-TGS-Salt-Identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="CUDA_LAUNCH_BLOCKING" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Kaggle-TGS-Salt-Identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/deep/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Dataset" />
+      <item itemvalue="Python.Train" />
+      <item itemvalue="Python.Submission" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Dataset" />
+        <item itemvalue="Python.Train" />
+        <item itemvalue="Python.Submission" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25da0947-e826-4da4-b870-428f3f5e4b8b" name="Default Changelist" comment="" />
+      <created>1536671718445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536671718445</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="49" y="-6" width="1871" height="1086" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5908142" visible="true" weight="0.16986302" />
+      <window_info id="Structure" order="1" sideWeight="0.4091858" side_tool="true" weight="0.22951886" />
+      <window_info id="Favorites" order="2" sideWeight="0.3952381" side_tool="true" weight="0.2243173" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32957393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2926045" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49835417" weight="0.60816324" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32957393" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32957393" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32957393" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5016458" side_tool="true" weight="0.4197995" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.37969926" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24950625" />
+      <window_info anchor="right" x="0" y="0" width="339" height="718" id="Documentation" order="3" side_tool="true" weight="0.32982224" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.329863" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5908142" weight="0.23146944" />
+      <window_info id="Structure" order="1" sideWeight="0.4091858" side_tool="true" weight="0.22951886" />
+      <window_info id="Favorites" order="2" sideWeight="0.3952381" side_tool="true" weight="0.2243173" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32957393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28446114" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49835417" visible="true" weight="0.4197995" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32957393" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32957393" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32957393" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5016458" side_tool="true" weight="0.4197995" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.37969926" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24950625" />
+      <window_info anchor="right" x="0" y="0" width="339" height="718" id="Documentation" order="3" side_tool="true" weight="0.32982224" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>sum(p.numel() for x in [self.encoder4.parameters(), self.encoder1.parameters(), self.encoder2.parameters(), self.encoder3.parameters()] for p in x)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum(p.parameters().numel() for x in [self.encoder4, self.encoder1, self.encoder2, self.encoder3] for p in x)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum(p.parameters().numel() for p in x for x in [self.encoder4, self.encoder1, self.encoder2, self.encoder3])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum(p.numel() for p in x.parameters() for x in [self.encoder4, self.encoder1, self.encoder2, self.encoder3])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum(p.numel() for p in self.resnet.parameters())</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum(p.numel() for p in self.resnet.parameters()parameters())</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum(p.numel() for p in self.encoder4.parameters())</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum(p.numel() for p in self.encoder4.parameters()parameters())</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.encoder4.parameters()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/os.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/matplotlib/__init__.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/matplotlib/image.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/matplotlib/axes/_axes.py" />
+    <entry file="file://$PROJECT_DIR$/HengCode/Augmentation.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/optim/optimizer.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_resolver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/numpy/core/_methods.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/numpy/lib/arraypad.py" />
+    <entry file="file://$PROJECT_DIR$/../Kaggle-2018-Data-Science-Bowl/NeuralNetworks.py" />
+    <entry file="file://$PROJECT_DIR$/../Kaggle-2018-Data-Science-Bowl/loss.py" />
+    <entry file="file://$PROJECT_DIR$/../Kaggle-2018-Data-Science-Bowl/unets.py" />
+    <entry file="file://$PROJECT_DIR$/HengCode/train_256.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/pandas/io/common.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/optim/Scheduler.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/optim/lr_scheduler.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/numpy/core/fromnumeric.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/numpy/core/numeric.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/nn/modules/activation.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/pandas/core/reshape/concat.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/pandas/core/frame.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document.csv" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/nn/modules/pooling.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/autograd/__init__.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/nn/functional.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/nn/modules/linear.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/serialization.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/utils/data/dataloader.py" />
+    <entry file="jar://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torchvision-0.2.1-py3.5.egg!/torchvision/models/resnet.py" />
+    <entry file="jar://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torchvision-0.2.1-py3.5.egg!/torchvision/models/__init__.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/nn/modules/container.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/pandas/core/generic.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/nn/modules/conv.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/deep/lib/python3.5/site-packages/torch/nn/modules/module.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="495">
+            <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2136">
+          <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Augmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6696">
+          <caret line="279" column="4" selection-start-line="279" selection-start-column="4" selection-end-line="279" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/py3.6/lib/python3.6/site-packages/torch/optim/lr_scheduler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7722">
+          <caret line="291" column="21" selection-start-line="291" selection-start-column="13" selection-end-line="291" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="817" column="44" selection-start-line="817" selection-start-column="44" selection-end-line="817" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#147#321#0" />
+            <element signature="e#192#236#0" />
+            <element signature="e#276#321#0" />
+            <element signature="e#516#935#0" />
+            <element signature="e#1066#1362#0" />
+            <element signature="e#1107#1252#0" />
+            <element signature="e#1288#1362#0" />
+            <element signature="e#1401#2065#0" />
+            <element signature="e#1452#1850#0" />
+            <element signature="e#1886#2065#0" />
+            <element signature="e#2113#2472#0" />
+            <element signature="e#2165#2337#0" />
+            <element signature="e#2382#2472#0" />
+            <element signature="e#2504#3723#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Submission.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2212">
+          <caret line="94" column="34" lean-forward="true" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lovász_loss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="150" column="40" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scheduler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="76" column="26" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2986">
+          <caret line="105" column="25" selection-start-line="105" selection-start-column="25" selection-end-line="105" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2538">
+          <caret line="126" column="54" lean-forward="true" selection-start-line="126" selection-start-column="54" selection-end-line="126" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
