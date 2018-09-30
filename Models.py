@@ -851,6 +851,7 @@ class UNetResNet34_SE_Hyper_SPP(SegmentationNetwork):
 
         self.logit = nn.Sequential(
             ConvBn2d(64 * 5, 128, kernel_size=3, padding=1),
+            # nn.Dropout2d(),
             nn.ReLU(inplace=True),
             nn.Conv2d(128, 1, kernel_size=1, padding=0),
         )

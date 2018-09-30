@@ -125,7 +125,7 @@ class TorchDataset(Dataset):
         # im = np.expand_dims(im, 0)
         im = np.pad(im, pad, 'edge')
         im = torch.from_numpy(im).float()
-        im = add_depth_channels(im)
+        # im = add_depth_channels(im)
         z = torch.from_numpy(np.expand_dims(self.df.z.iloc[index], 0)).float()
 
         if self.is_test:
