@@ -50,6 +50,13 @@ def get_mask_type(mask):
     else:
         return 7
 
+def add_depth_channels(image_tensor):
+    _, h, w = image_tensor.size()
+    for row, const in enumerate(np.linspace(0, 1, h)):
+        image_tensor[1, row, :] = const
+    image_tensor[2] = image_tensor[0] * image_tensor[1]
+    return image_tensor
+
 def basic_augment(image, mask, index):
     if np.random.rand() < 0.5:
         image, mask = do_horizontal_flip2(image, mask)
@@ -118,7 +125,7 @@ class TorchDataset(Dataset):
         # im = np.expand_dims(im, 0)
         im = np.pad(im, pad, 'edge')
         im = torch.from_numpy(im).float()
-
+        im = add_depth_channels(im)
         z = torch.from_numpy(np.expand_dims(self.df.z.iloc[index], 0)).float()
 
         if self.is_test:
