@@ -192,8 +192,8 @@ class TGS_Dataset():
         if data == 'train':
             if stratify:
                 self.df["coverage"] = self.df.masks.map(np.sum) / pow(IM_SIZE, 2)
-                # self.df["coverage_class"] = self.df.coverage.map(cov_to_class)
-                self.df["coverage_class"] = self.df.masks.map(get_mask_type)
+                self.df["coverage_class"] = self.df.coverage.map(cov_to_class)
+                #self.df["coverage_class"] = self.df.masks.map(get_mask_type)
                 kf = StratifiedKFold(n_splits=nfold,
                                      shuffle=True,
                                      random_state=seed)
