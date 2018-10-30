@@ -64,21 +64,18 @@ thanks for [Eduardo Rocha de Andrade's code for our baseline model ](https://git
 >>#### [Feature Pyramid Attention](https://arxiv.org/abs/1805.10180)
 >>[x] Implement FPA on Unet center block\
 
->###FPNet 
-
+>### FPNet
 >[x] Implement FPNet 
 >>[ ] Add SE Blocks
 
->###[RefineNet](https://arxiv.org/pdf/1611.06612.pdf) 
-
+>### [RefineNet](https://arxiv.org/pdf/1611.06612.pdf) 
 >[x] Implement RefineNet\
 [x] Add SE blocks\
 [ ] Implement dense connections in RefineBlocks\
 [ ] Use PPM or ASSP instead of ChainPoolingModule\
 [ ] Use hypercolumns
 
->###[DeepLabv3](https://arxiv.org/pdf/1706.05587.pdf) 
-
+>### [DeepLabv3](https://arxiv.org/pdf/1706.05587.pdf) 
 >[ ] Implement DeepLabv3\
 [ ] Add SE blocks\
 [ ] Implement [OC-ASP Module](https://arxiv.org/pdf/1809.00916.pdf)
