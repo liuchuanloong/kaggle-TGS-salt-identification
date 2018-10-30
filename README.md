@@ -7,13 +7,13 @@ thanks for [Eduardo Rocha de Andrade's code for our baseline model ](https://git
 >Input: 101 -> resize to 202 -> pad to 256 \
 >Encoder: ResNet34 pretrained on ImageNet \
 >Centerblock: FPA model for attention \
->Decoder: conv3x3 + GAU \
+>Decoder: conv3x3 + GAU 
 
 ## Training overview: 
-- Optimizer: Lovasz Loss, SGD, Batch size: 32, Reduce LR on cosine annealing, 100 epochs each, LR starting from 0.01  \
-1. single model ResNet34 got 0.856 public LB (0.878 private LB) \
-2. 5-fold Average Ensemble ResNet34 got 0.859 public LB (0.881 private LB) \
-3. all threshold we used 0.45 for best score \
+- Optimizer: Lovasz Loss, SGD, Batch size: 32, Reduce LR on cosine annealing, 100 epochs each, LR starting from 0.01  
+1. single model ResNet34 got 0.856 public LB (0.878 private LB) 
+2. 5-fold Average Ensemble ResNet34 got 0.859 public LB (0.881 private LB) 
+3. all threshold we used 0.45 for best score 
 4. Transfer above best model for 5-fold Average Ensemble ResNet34 got 0.864 public LB (0.883 private LB) 
 
 ## Augmentations
@@ -26,7 +26,7 @@ thanks for [Eduardo Rocha de Andrade's code for our baseline model ](https://git
 >>do_elastic_transform2            (0, 0.15) \
 >>do_brightness_shift              (-0.1, +0.1) \
 >>do_brightness_multiply           (-0.08, +0.08) \
->>do_gamma                         (-0.08, +0.08) \
+>>do_gamma                         (-0.08, +0.08) 
 
 ## preprocessing
 > [depth channels](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/61949#385778) \
@@ -48,8 +48,8 @@ thanks for [Eduardo Rocha de Andrade's code for our baseline model ](https://git
 >>[x] No pooling in center block: 4 upsamplings\
 >>[x] Add pooling in center block: 5 upsamplings\
 >>[x] Try spatial dropout\
->>[x] Try spatial pyramid pooling
->>[x] Replace sesc decode as [GAU](https://arxiv.org/abs/1805.10180)
+>>[x] Try spatial pyramid pooling\
+>>[x] Replace sesc decode as [GAU](https://arxiv.org/abs/1805.10180)\
 >>[ ] Replace part of the decoder with dilated convs
 >>#### [Hyper columns](https://arxiv.org/pdf/1411.5752.pdf)
 >>[x] Implement hyper columns on decoder\
