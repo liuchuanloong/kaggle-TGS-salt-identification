@@ -1,6 +1,6 @@
 # Kaggle - TGS Salt Identification challenge
 [open source 60th solution(code)](https://github.com/liuchuanloong/kaggle-TGS-salt-identification) for kaggle TGS salt identification challenge
-this my first kaggle competition, I worked hard in last month competition times, thanks for all people shared their ideas, in especial [Jack (Jiaxin) Shao](https://www.kaggle.com/shaojiaxin), [peter](https://www.kaggle.com/pestipeti) and [heng](https://www.kaggle.com/hengck23), they give me a lot of encouragement, I have gained so much from this competition, and 
+this is my first kaggle competition, I worked hard in last month competition times, thanks for all people shared their ideas, in especial [Jack (Jiaxin) Shao](https://www.kaggle.com/shaojiaxin), [peter](https://www.kaggle.com/pestipeti) and [heng](https://www.kaggle.com/hengck23), they give me a lot of encouragement, I have gained so much from this competition, and 
 thanks for [Eduardo Rocha de Andrade's code for our baseline model ](https://github.com/arc144/Kaggle-TGS-Salt-Identification)
 ## our final solution
 
