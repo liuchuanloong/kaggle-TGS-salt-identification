@@ -17,7 +17,7 @@ thanks for [Eduardo Rocha de Andrade's code for our baseline model ](https://git
 4. Transfer above best model for 5-fold Average Ensemble ResNet34 got 0.864 public LB (0.883 private LB) 
 
 ## Augmentations
->we used [heng's](https://www.kaggle.com/hengck23/competitions) augmentations [code](https://drive.google.com/drive/folders/18_gAnL1GMD7Ogyz4T3Y0l_UD31qagsc-?usp=sharing), we first used on keras model but did not work but in pytorch worked perfect
+>we used [heng's](https://www.kaggle.com/hengck23/competitions) augmentations [code](https://drive.google.com/drive/folders/18_gAnL1GMD7Ogyz4T3Y0l_UD31qagsc-?usp=sharing), we first used on keras model but did not work , in pytorch, it worked perfect
 
 >>do_horizontal_flip2 \
 >>do_random_shift_scale_crop_pad2  0.2  \
